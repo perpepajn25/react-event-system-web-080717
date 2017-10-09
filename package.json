@@ -1,0 +1,26 @@
+{
+  "name": "react-event-system-web-080717",
+  "version": "1.0.0",
+  "description": "## Overview In this lesson, we'll cover the event system in React.",
+  "main": "test.js",
+  "dependencies": {
+    "mocha-multi": "^0.11.0"
+  },
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/perpepajn25/react-event-system-web-080717.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/perpepajn25/react-event-system-web-080717/issues"
+  },
+  "homepage": "https://github.com/perpepajn25/react-event-system-web-080717#readme"
+}
